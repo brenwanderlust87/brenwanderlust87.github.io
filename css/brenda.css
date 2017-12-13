@@ -1,0 +1,25 @@
+
+*{
+font-family: 'Roboto', sans-serif;
+
+}
+.brenda{
+  border-radius: 100%;
+}
+.btn-default{
+	color: #C50F6B;
+  border: 1px solid #C50F6B;
+  background-color: transparent; }
+  .btn-default:focus, .btn-default:hover {
+    color: black;
+    border: 1px solid #C50F6B;
+    outline: none;
+    background-color: #C50F6B; }
+   .download-section{
+   } 
+.rosa, .colored{
+	color:#C50F6B;
+}
+h6{
+	text-transform: none;
+}
